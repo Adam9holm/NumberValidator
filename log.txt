@@ -1,0 +1,195 @@
+[2025-09-23 13:48:32][Info] [RunValidator] Logger initialized.
+[2025-09-23 13:48:37][Info] [RunValidator] Sending input: 0303208698 to sanitizer
+[2025-09-23 13:48:37][Info] [InputSanitizer] Sanitizing input: 0303208698
+[2025-09-23 13:48:37][Info] [InputSanitizer] Input passed sanitization.
+[2025-09-23 13:48:37][Info] [DateValidator] Sending input: 0303208698 to be sanitized
+[2025-09-23 13:48:37][Info] [InputSanitizer] Sanitizing input: 0303208698
+[2025-09-23 13:48:37][Info] [InputSanitizer] Input passed sanitization.
+[2025-09-23 13:48:37][Info] [DateValidator] Interpreted 10-digit input as 2003-03-20
+[2025-09-23 13:48:37][Info] [DateValidator] Valid birthdate: 2003-03-20
+[2025-09-23 13:48:37][Info] [IdentifierValidatorManager] Sending input: 0303208698 to be sanitized
+[2025-09-23 13:48:37][Info] [InputSanitizer] Sanitizing input: 0303208698
+[2025-09-23 13:48:37][Info] [InputSanitizer] Input passed sanitization.
+[2025-09-23 13:48:37][Info] [IdentifierValidatorManager] Sending 0303208698 to PersonalNumberValidator.
+[2025-09-23 13:48:37][Info] [PersonalNumberValidator] Sanitizing input: 0303208698
+[2025-09-23 13:48:37][Info] [InputSanitizer] Sanitizing input: 0303208698
+[2025-09-23 13:48:37][Info] [InputSanitizer] Input passed sanitization.
+[2025-09-23 13:48:37][Info] [LuhnAlgorithm] Sending 0303208698 to be sanitized.
+[2025-09-23 13:48:37][Info] [InputSanitizer] Sanitizing input: 0303208698
+[2025-09-23 13:48:37][Info] [InputSanitizer] Input passed sanitization.
+[2025-09-23 13:48:37][Info] [NumberValidator] 0303208698 Passed Luhn check
+[2025-09-23 13:48:37][Info] [PersonalNumberValidator] Valid personal number: 0303208698
+[2025-09-23 13:48:37][Info] [RunValidator] Input is a valid Swedish identifier.
+[2025-09-23 13:49:00][Info] [RunValidator] Logger initialized.
+[2025-09-23 13:49:06][Info] [RunValidator] Sending input: 334244-4444 to sanitizer
+[2025-09-23 13:49:06][Info] [InputSanitizer] Sanitizing input: 334244-4444
+[2025-09-23 13:49:06][Info] [InputSanitizer] Input passed sanitization.
+[2025-09-23 13:49:06][Info] [DateValidator] Sending input: 334244-4444 to be sanitized
+[2025-09-23 13:49:06][Info] [InputSanitizer] Sanitizing input: 334244-4444
+[2025-09-23 13:49:06][Info] [InputSanitizer] Input passed sanitization.
+[2025-09-23 13:49:06][Info] [IdentifyNumberType] Number identified as organization number
+[2025-09-23 13:49:06][Info] [DateValidator] Input identified as organization, skipping date validation.
+[2025-09-23 13:49:06][Info] [IdentifierValidatorManager] Sending input: 334244-4444 to be sanitized
+[2025-09-23 13:49:06][Info] [InputSanitizer] Sanitizing input: 334244-4444
+[2025-09-23 13:49:06][Info] [InputSanitizer] Input passed sanitization.
+[2025-09-23 13:49:06][Info] [IdentifyNumberType] Number identified as organization number
+[2025-09-23 13:49:06][Info] [IdentifierValidatorManager] Sending 334244-4444 to OrganizationNumberValidator.
+[2025-09-23 13:49:06][Info] [OrganizationNumberValidator] Sanitizing input: 3342444444
+[2025-09-23 13:49:06][Info] [InputSanitizer] Sanitizing input: 3342444444
+[2025-09-23 13:49:06][Info] [InputSanitizer] Input passed sanitization.
+[2025-09-23 13:49:06][Info] [LuhnAlgorithm] Sending 3342444444 to be sanitized.
+[2025-09-23 13:49:06][Info] [InputSanitizer] Sanitizing input: 3342444444
+[2025-09-23 13:49:06][Info] [InputSanitizer] Input passed sanitization.
+[2025-09-23 13:49:06][Info] [LuhnAlgorithm] Luhn check failed: control digit mismatch.
+[2025-09-23 13:49:06][Info] [NumberValidator] 3342444444 Failed Luhn check
+[2025-09-23 13:49:06][Error] [RunValidator] Input is NOT a valid Swedish identifier.
+[2025-09-23 13:50:08][Info] [RunValidator] Logger initialized.
+[2025-09-23 13:50:12][Info] [RunValidator] Sending input: 030320-8698 to sanitizer
+[2025-09-23 13:50:12][Info] [InputSanitizer] Sanitizing input: 030320-8698
+[2025-09-23 13:50:12][Info] [InputSanitizer] Input passed sanitization.
+[2025-09-23 13:50:12][Info] [DateValidator] Sending input: 030320-8698 to be sanitized
+[2025-09-23 13:50:12][Info] [InputSanitizer] Sanitizing input: 030320-8698
+[2025-09-23 13:50:12][Info] [InputSanitizer] Input passed sanitization.
+[2025-09-23 13:50:12][Info] [DateValidator] Interpreted 10-digit input as 2003-03-20
+[2025-09-23 13:50:12][Info] [DateValidator] Valid birthdate: 2003-03-20
+[2025-09-23 13:50:12][Info] [IdentifierValidatorManager] Sending input: 030320-8698 to be sanitized
+[2025-09-23 13:50:12][Info] [InputSanitizer] Sanitizing input: 030320-8698
+[2025-09-23 13:50:12][Info] [InputSanitizer] Input passed sanitization.
+[2025-09-23 13:50:12][Info] [IdentifierValidatorManager] Sending 030320-8698 to PersonalNumberValidator.
+[2025-09-23 13:50:12][Info] [PersonalNumberValidator] Sanitizing input: 0303208698
+[2025-09-23 13:50:12][Info] [InputSanitizer] Sanitizing input: 0303208698
+[2025-09-23 13:50:12][Info] [InputSanitizer] Input passed sanitization.
+[2025-09-23 13:50:12][Info] [LuhnAlgorithm] Sending 0303208698 to be sanitized.
+[2025-09-23 13:50:12][Info] [InputSanitizer] Sanitizing input: 0303208698
+[2025-09-23 13:50:12][Info] [InputSanitizer] Input passed sanitization.
+[2025-09-23 13:50:12][Info] [NumberValidator] 0303208698 Passed Luhn check
+[2025-09-23 13:50:12][Info] [PersonalNumberValidator] Valid personal number: 0303208698
+[2025-09-23 13:50:12][Info] [RunValidator] Input is a valid Swedish identifier.
+[2025-09-23 13:50:44][Info] [RunValidator] Logger initialized.
+[2025-09-23 13:50:46][Info] [RunValidator] Sending input: dsffdsfsdf to sanitizer
+[2025-09-23 13:50:46][Info] [InputSanitizer] Sanitizing input: dsffdsfsdf
+[2025-09-23 13:50:46][Info] [InputSanitizer] Input contains invalid characters
+[2025-09-23 13:50:46][Error] [RunValidator] Input failed sanitization. Stopping validation.
+[2025-09-23 13:52:09][Info] [RunValidator] Logger initialized.
+[2025-09-23 13:52:12][Info] [RunValidator] Sending input: 0303208698 to sanitizer
+[2025-09-23 13:52:12][Info] [InputSanitizer] Sanitizing input: 0303208698
+[2025-09-23 13:52:12][Info] [InputSanitizer] Input passed sanitization.
+[2025-09-23 13:52:12][Info] [DateValidator] Sending input: 0303208698 to be sanitized
+[2025-09-23 13:52:12][Info] [InputSanitizer] Sanitizing input: 0303208698
+[2025-09-23 13:52:12][Info] [InputSanitizer] Input passed sanitization.
+[2025-09-23 13:52:12][Info] [DateValidator] Interpreted 10-digit input as 2003-03-20
+[2025-09-23 13:52:12][Info] [DateValidator] Valid birthdate: 2003-03-20
+[2025-09-23 13:52:12][Info] [IdentifierValidatorManager] Sending input: 0303208698 to be sanitized
+[2025-09-23 13:52:12][Info] [InputSanitizer] Sanitizing input: 0303208698
+[2025-09-23 13:52:12][Info] [InputSanitizer] Input passed sanitization.
+[2025-09-23 13:52:12][Info] [IdentifierValidatorManager] Sending 0303208698 to PersonalNumberValidator.
+[2025-09-23 13:52:12][Info] [PersonalNumberValidator] Sanitizing input: 0303208698
+[2025-09-23 13:52:12][Info] [InputSanitizer] Sanitizing input: 0303208698
+[2025-09-23 13:52:12][Info] [InputSanitizer] Input passed sanitization.
+[2025-09-23 13:52:12][Info] [LuhnAlgorithm] Sending 0303208698 to be sanitized.
+[2025-09-23 13:52:12][Info] [InputSanitizer] Sanitizing input: 0303208698
+[2025-09-23 13:52:12][Info] [InputSanitizer] Input passed sanitization.
+[2025-09-23 13:52:12][Info] [NumberValidator] 0303208698 Passed Luhn check
+[2025-09-23 13:52:12][Info] [PersonalNumberValidator] Valid personal number: 0303208698
+[2025-09-23 13:52:12][Info] [RunValidator] Input is a valid Swedish identifier.
+[2025-09-23 13:52:56][Info] [RunValidator] Logger initialized.
+[2025-09-23 13:52:59][Info] [RunValidator] Sending input: 0303208698 to sanitizer
+[2025-09-23 13:52:59][Info] [InputSanitizer] Sanitizing input: 0303208698
+[2025-09-23 13:52:59][Success] [InputSanitizer] Input passed sanitization.
+[2025-09-23 13:52:59][Info] [DateValidator] Sending input: 0303208698 to be sanitized
+[2025-09-23 13:52:59][Info] [InputSanitizer] Sanitizing input: 0303208698
+[2025-09-23 13:52:59][Success] [InputSanitizer] Input passed sanitization.
+[2025-09-23 13:52:59][Info] [DateValidator] Interpreted 10-digit input as 2003-03-20
+[2025-09-23 13:52:59][Info] [DateValidator] Valid birthdate: 2003-03-20
+[2025-09-23 13:52:59][Info] [IdentifierValidatorManager] Sending input: 0303208698 to be sanitized
+[2025-09-23 13:52:59][Info] [InputSanitizer] Sanitizing input: 0303208698
+[2025-09-23 13:52:59][Success] [InputSanitizer] Input passed sanitization.
+[2025-09-23 13:52:59][Info] [IdentifierValidatorManager] Sending 0303208698 to PersonalNumberValidator.
+[2025-09-23 13:52:59][Info] [PersonalNumberValidator] Sanitizing input: 0303208698
+[2025-09-23 13:52:59][Info] [InputSanitizer] Sanitizing input: 0303208698
+[2025-09-23 13:52:59][Success] [InputSanitizer] Input passed sanitization.
+[2025-09-23 13:52:59][Info] [LuhnAlgorithm] Sending 0303208698 to be sanitized.
+[2025-09-23 13:52:59][Info] [InputSanitizer] Sanitizing input: 0303208698
+[2025-09-23 13:52:59][Success] [InputSanitizer] Input passed sanitization.
+[2025-09-23 13:52:59][Info] [NumberValidator] 0303208698 Passed Luhn check
+[2025-09-23 13:52:59][Info] [PersonalNumberValidator] Valid personal number: 0303208698
+[2025-09-23 13:52:59][Info] [RunValidator] Input is a valid Swedish identifier.
+[2025-09-23 13:54:53][Info] [RunValidator] Logger initialized.
+[2025-09-23 13:54:58][Info] [RunValidator] Sending input: 030320.8698 to sanitizer
+[2025-09-23 13:54:58][Info] [InputSanitizer] Sanitizing input: 030320.8698
+[2025-09-23 13:54:58][Error] [InputSanitizer] Input contains invalid characters
+[2025-09-23 13:54:58][Error] [RunValidator] Input failed sanitization. Stopping validation.
+[2025-09-23 13:55:09][Info] [RunValidator] Logger initialized.
+[2025-09-23 13:55:12][Info] [RunValidator] Sending input: 0303208698 to sanitizer
+[2025-09-23 13:55:12][Info] [InputSanitizer] Sanitizing input: 0303208698
+[2025-09-23 13:55:12][Success] [InputSanitizer] Input passed sanitization.
+[2025-09-23 13:55:12][Info] [DateValidator] Sending input: 0303208698 to be sanitized
+[2025-09-23 13:55:12][Info] [InputSanitizer] Sanitizing input: 0303208698
+[2025-09-23 13:55:12][Success] [InputSanitizer] Input passed sanitization.
+[2025-09-23 13:55:12][Info] [DateValidator] Interpreted 10-digit input as 2003-03-20
+[2025-09-23 13:55:12][Info] [DateValidator] Valid birthdate: 2003-03-20
+[2025-09-23 13:55:12][Info] [IdentifierValidatorManager] Sending input: 0303208698 to be sanitized
+[2025-09-23 13:55:12][Info] [InputSanitizer] Sanitizing input: 0303208698
+[2025-09-23 13:55:12][Success] [InputSanitizer] Input passed sanitization.
+[2025-09-23 13:55:12][Info] [IdentifierValidatorManager] Sending 0303208698 to PersonalNumberValidator.
+[2025-09-23 13:55:12][Info] [PersonalNumberValidator] Sending input 0303208698 to sanitizer
+[2025-09-23 13:55:12][Info] [InputSanitizer] Sanitizing input: 0303208698
+[2025-09-23 13:55:12][Success] [InputSanitizer] Input passed sanitization.
+[2025-09-23 13:55:12][Info] [LuhnAlgorithm] Sending 0303208698 to be sanitized.
+[2025-09-23 13:55:12][Info] [InputSanitizer] Sanitizing input: 0303208698
+[2025-09-23 13:55:12][Success] [InputSanitizer] Input passed sanitization.
+[2025-09-23 13:55:12][Info] [NumberValidator] 0303208698 Passed Luhn check
+[2025-09-23 13:55:12][Success] [PersonalNumberValidator] Valid personal number: 0303208698
+[2025-09-23 13:55:12][Info] [RunValidator] Input is a valid Swedish identifier.
+[2025-09-23 13:57:25][Info] [RunValidator] Logger initialized.
+[2025-09-23 13:57:28][Info] [RunValidator] Sending input: 0303208698 to sanitizer
+[2025-09-23 13:57:28][Info] [InputSanitizer] Sanitizing input: 0303208698
+[2025-09-23 13:57:28][Success] [InputSanitizer] Input passed sanitization.
+[2025-09-23 13:57:28][Info] [DateValidator] Sending input: 0303208698 to be sanitized
+[2025-09-23 13:57:28][Info] [InputSanitizer] Sanitizing input: 0303208698
+[2025-09-23 13:57:28][Success] [InputSanitizer] Input passed sanitization.
+[2025-09-23 13:57:28][Info] [DateValidator] Interpreted 10-digit input as 2003-03-20
+[2025-09-23 13:57:28][Success] [DateValidator] Valid birthdate: 2003-03-20
+[2025-09-23 13:57:28][Info] [IdentifierValidatorManager] Sending input: 0303208698 to be sanitized
+[2025-09-23 13:57:28][Info] [InputSanitizer] Sanitizing input: 0303208698
+[2025-09-23 13:57:28][Success] [InputSanitizer] Input passed sanitization.
+[2025-09-23 13:57:28][Info] [IdentifierValidatorManager] Sending 0303208698 to PersonalNumberValidator.
+[2025-09-23 13:57:28][Info] [PersonalNumberValidator] Sending input 0303208698 to sanitizer
+[2025-09-23 13:57:28][Info] [InputSanitizer] Sanitizing input: 0303208698
+[2025-09-23 13:57:28][Success] [InputSanitizer] Input passed sanitization.
+[2025-09-23 13:57:28][Info] [LuhnAlgorithm] Sending 0303208698 to be sanitized.
+[2025-09-23 13:57:28][Info] [InputSanitizer] Sanitizing input: 0303208698
+[2025-09-23 13:57:28][Success] [InputSanitizer] Input passed sanitization.
+[2025-09-23 13:57:28][Success] [NumberValidator] 0303208698 Passed Luhn check
+[2025-09-23 13:57:28][Success] [PersonalNumberValidator] Valid personal number: 0303208698
+[2025-09-23 13:57:28][Info] [RunValidator] Input is a valid Swedish identifier.
+[2025-09-23 13:58:14][Info] [RunValidator] Logger initialized.
+[2025-09-23 13:58:21][Info] [RunValidator] Sending input: 201701272394 to sanitizer
+[2025-09-23 13:58:21][Info] [InputSanitizer] Sanitizing input: 201701272394
+[2025-09-23 13:58:21][Success] [InputSanitizer] Input passed sanitization.
+[2025-09-23 13:58:21][Info] [DateValidator] Sending input: 201701272394 to be sanitized
+[2025-09-23 13:58:21][Info] [InputSanitizer] Sanitizing input: 201701272394
+[2025-09-23 13:58:21][Success] [InputSanitizer] Input passed sanitization.
+[2025-09-23 13:58:21][Success] [DateValidator] Valid birthdate: 2017-01-27
+[2025-09-23 13:58:21][Info] [IdentifierValidatorManager] Sending input: 201701272394 to be sanitized
+[2025-09-23 13:58:21][Info] [InputSanitizer] Sanitizing input: 201701272394
+[2025-09-23 13:58:21][Success] [InputSanitizer] Input passed sanitization.
+[2025-09-23 13:58:21][Info] [IdentifierValidatorManager] Sending 201701272394 to PersonalNumberValidator.
+[2025-09-23 13:58:21][Info] [PersonalNumberValidator] Sending input 1701272394 to sanitizer
+[2025-09-23 13:58:21][Info] [InputSanitizer] Sanitizing input: 1701272394
+[2025-09-23 13:58:21][Success] [InputSanitizer] Input passed sanitization.
+[2025-09-23 13:58:21][Info] [LuhnAlgorithm] Sending 1701272394 to be sanitized.
+[2025-09-23 13:58:21][Info] [InputSanitizer] Sanitizing input: 1701272394
+[2025-09-23 13:58:21][Success] [InputSanitizer] Input passed sanitization.
+[2025-09-23 13:58:21][Info] [LuhnAlgorithm] Luhn check failed: control digit mismatch.
+[2025-09-23 13:58:21][Error] [NumberValidator] 1701272394 Failed Luhn check
+[2025-09-23 13:58:21][Error] [RunValidator] Input is NOT a valid Swedish identifier.
+[2025-09-23 13:58:30][Info] [RunValidator] Logger initialized.
+[2025-09-23 13:58:31][Info] [RunValidator] Sending input: 190302299813 to sanitizer
+[2025-09-23 13:58:31][Info] [InputSanitizer] Sanitizing input: 190302299813
+[2025-09-23 13:58:31][Success] [InputSanitizer] Input passed sanitization.
+[2025-09-23 13:58:31][Info] [DateValidator] Sending input: 190302299813 to be sanitized
+[2025-09-23 13:58:31][Info] [InputSanitizer] Sanitizing input: 190302299813
+[2025-09-23 13:58:31][Success] [InputSanitizer] Input passed sanitization.
+[2025-09-23 13:58:31][Error] [DateValidator] Invalid date components: 1903-2-29
+[2025-09-23 13:58:31][Error] [RunValidator] Input failed date validation. Stopping validation.

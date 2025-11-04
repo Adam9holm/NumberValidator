@@ -1,0 +1,30 @@
+/Applications/MAMP/htdocs/Adam9holm-repo/OPValiderare/obj/Debug/net8.0/OPValiderare.GeneratedMSBuildEditorConfig.editorconfig
+/Applications/MAMP/htdocs/Adam9holm-repo/OPValiderare/obj/Debug/net8.0/OPValiderare.AssemblyInfoInputs.cache
+/Applications/MAMP/htdocs/Adam9holm-repo/OPValiderare/obj/Debug/net8.0/OPValiderare.AssemblyInfo.cs
+/Applications/MAMP/htdocs/Adam9holm-repo/OPValiderare/obj/Debug/net8.0/OPValiderare.csproj.CoreCompileInputs.cache
+/Applications/MAMP/htdocs/Adam9holm-repo/OPValiderare/obj/Debug/net8.0/OPValiderare.sourcelink.json
+/Applications/MAMP/htdocs/Adam9holm-repo/OPValiderare/bin/Debug/net8.0/OPValiderare
+/Applications/MAMP/htdocs/Adam9holm-repo/OPValiderare/bin/Debug/net8.0/OPValiderare.deps.json
+/Applications/MAMP/htdocs/Adam9holm-repo/OPValiderare/bin/Debug/net8.0/OPValiderare.runtimeconfig.json
+/Applications/MAMP/htdocs/Adam9holm-repo/OPValiderare/bin/Debug/net8.0/OPValiderare.dll
+/Applications/MAMP/htdocs/Adam9holm-repo/OPValiderare/bin/Debug/net8.0/OPValiderare.pdb
+/Applications/MAMP/htdocs/Adam9holm-repo/OPValiderare/obj/Debug/net8.0/OPValiderare.dll
+/Applications/MAMP/htdocs/Adam9holm-repo/OPValiderare/obj/Debug/net8.0/refint/OPValiderare.dll
+/Applications/MAMP/htdocs/Adam9holm-repo/OPValiderare/obj/Debug/net8.0/OPValiderare.pdb
+/Applications/MAMP/htdocs/Adam9holm-repo/OPValiderare/obj/Debug/net8.0/OPValiderare.genruntimeconfig.cache
+/Applications/MAMP/htdocs/Adam9holm-repo/OPValiderare/obj/Debug/net8.0/ref/OPValiderare.dll
+/Applications/MAMP/htdocs/Adam9holm-repo/OPValiderare (kopia)/bin/Debug/net8.0/OPValiderare
+/Applications/MAMP/htdocs/Adam9holm-repo/OPValiderare (kopia)/bin/Debug/net8.0/OPValiderare.deps.json
+/Applications/MAMP/htdocs/Adam9holm-repo/OPValiderare (kopia)/bin/Debug/net8.0/OPValiderare.runtimeconfig.json
+/Applications/MAMP/htdocs/Adam9holm-repo/OPValiderare (kopia)/bin/Debug/net8.0/OPValiderare.dll
+/Applications/MAMP/htdocs/Adam9holm-repo/OPValiderare (kopia)/bin/Debug/net8.0/OPValiderare.pdb
+/Applications/MAMP/htdocs/Adam9holm-repo/OPValiderare (kopia)/obj/Debug/net8.0/OPValiderare.GeneratedMSBuildEditorConfig.editorconfig
+/Applications/MAMP/htdocs/Adam9holm-repo/OPValiderare (kopia)/obj/Debug/net8.0/OPValiderare.AssemblyInfoInputs.cache
+/Applications/MAMP/htdocs/Adam9holm-repo/OPValiderare (kopia)/obj/Debug/net8.0/OPValiderare.AssemblyInfo.cs
+/Applications/MAMP/htdocs/Adam9holm-repo/OPValiderare (kopia)/obj/Debug/net8.0/OPValiderare.csproj.CoreCompileInputs.cache
+/Applications/MAMP/htdocs/Adam9holm-repo/OPValiderare (kopia)/obj/Debug/net8.0/OPValiderare.sourcelink.json
+/Applications/MAMP/htdocs/Adam9holm-repo/OPValiderare (kopia)/obj/Debug/net8.0/OPValiderare.dll
+/Applications/MAMP/htdocs/Adam9holm-repo/OPValiderare (kopia)/obj/Debug/net8.0/refint/OPValiderare.dll
+/Applications/MAMP/htdocs/Adam9holm-repo/OPValiderare (kopia)/obj/Debug/net8.0/OPValiderare.pdb
+/Applications/MAMP/htdocs/Adam9holm-repo/OPValiderare (kopia)/obj/Debug/net8.0/OPValiderare.genruntimeconfig.cache
+/Applications/MAMP/htdocs/Adam9holm-repo/OPValiderare (kopia)/obj/Debug/net8.0/ref/OPValiderare.dll
